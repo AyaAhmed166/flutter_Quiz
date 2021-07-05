@@ -6,6 +6,7 @@ Answer
 quiz
 result
 
-            ![Screenshot (10)](https://user-images.githubusercontent.com/49192276/124489397-3ac6f780-ddb1-11eb-8b89-42df733a5062.png)
+            
 
             
+![Screenshot (10)](https://user-images.githubusercontent.com/49192276/124490596-947bf180-ddb2-11eb-9e33-5ccb5c67a580.png)
